@@ -1,6 +1,6 @@
 # CSCI567Project
-CSCI567 Project
 
+Contributers: Arjun Bulusu, Ehsan Hosseinzadeh Khaligh, Hao-Jung Chen, Kotoko Onishi
 
 Instructions to run notebook Final_hmsRNN.ipynb:
 
