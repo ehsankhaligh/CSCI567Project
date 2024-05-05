@@ -9,4 +9,6 @@ Instructions to run notebook Final_hmsRNN.ipynb:
 3) Run notebook
    
 Instructions to run notebook Final_hmsRNN.ipynb:
+
+   Run notebook from https://www.kaggle.com/code/haojungc/nick-hms-hbac-kerascv-starter-notebook
    
